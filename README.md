@@ -1,4 +1,4 @@
-##Random pronounceable and cool username generator
+####Random pronounceable and cool username generator
 
 This flask API generates generates a 4 letter pronounceable word, takes a word from the common words given to genrate 
 one jja and one jjb type word form the external Datamuse API and then a adds 3 digits to complete the username.
